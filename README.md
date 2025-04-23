@@ -30,9 +30,8 @@ Routers, switches, and end devices configured in a typical enterprise topology.
    - Apply ACLs and test traffic filtering.
   
 
-cp /path/to/New\ lab.pkt .
-touch README.md
-# Paste this README content into it
+
+ Paste this README content into it
 git add .
 git commit -m "Initial commit with Packet Tracer lab"
 git push origin main
