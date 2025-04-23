@@ -32,6 +32,6 @@ Routers, switches, and end devices configured in a typical enterprise topology.
 
 
  Paste this README content into it
-git add .
-git commit -m "Initial commit with Packet Tracer lab"
-git push origin main
+1. git add .
+2. git commit -m "Initial commit with Packet Tracer lab"
+3. git push origin main
